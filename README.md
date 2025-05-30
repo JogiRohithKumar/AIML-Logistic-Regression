@@ -3,9 +3,6 @@
 # 📄 Breast Cancer Analysis using Logistic Regression
 This project uses Logistic Regression to classify tumors as malignant or benign using the Breast Cancer Wisconsin dataset. It includes data preprocessing, model training, and evaluation using metrics such as the confusion matrix, classification report, and ROC-AUC curve. The project also explores the sigmoid function and decision threshold tuning to better understand classification behavior.
 
-## 📌 Objective
-Build a binary classifier using Logistic Regression to predict whether a tumor is malignant or benign using the Breast Cancer Wisconsin dataset.
-
 ## 📁 Dataset
 - **Source:** Breast Cancer Wisconsin Dataset
 - **Target Column:** `diagnosis` (M = Malignant, B = Benign)
